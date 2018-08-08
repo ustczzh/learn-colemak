@@ -1,4 +1,9 @@
 # learn-colemak
+
+Clone of https://github.com/gibrown/learn-colemak
+
+Also, checkout https://forum.colemak.com/topic/2272-my-layout-switching-experience/
+
 My word lists for learning Colemak
 
 Includes lists that are built for Unix commands and for PHP coding. Lots of WordPress/Elasticsearch terms so your mileage may vary here and you may want to build your own.
